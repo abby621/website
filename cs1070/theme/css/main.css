@@ -49,10 +49,10 @@ a.anchor-link {
 }
 
 .calendar tr.thursday {
-  background-color: #f2f4f8;
+  background-color: #F9FBFF;
 }
 
-.calendar tr.final {
+.calendar tr.exam {
   background-color: #32CD32;
 }
 
