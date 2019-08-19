@@ -100,6 +100,6 @@ a.anchor-link {
   visibility: visible;
 }
 
-td, th {
+tr, td, th {
   padding:10px;
 }
