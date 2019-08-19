@@ -99,3 +99,7 @@ a.anchor-link {
 .staff .name .biohover:active .bio {
   visibility: visible;
 }
+
+td, th {
+  padding:10px;
+}
